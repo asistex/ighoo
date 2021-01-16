@@ -1,0 +1,17 @@
+# To validate, run:
+
+nogit/*/
+nogit/
+
+# # binaries
+# *.exe
+# *.dll
+# *.lib
+# *.a
+
+# # packages
+# /pkg/
+
+# # exceptions
+# !config/*.exe
+# !/*.exe
