@@ -1,7 +1,7 @@
-# To validate, run:
-
-nogit/*/
-nogit/
+# folder with private files
+# this folder will not send it to github
+nogithub/*/
+nogithub/
 
 # # binaries
 # *.exe
